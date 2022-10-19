@@ -70,7 +70,8 @@
     "size-limit": "^8.1.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
-    "typescript": "^4.8.4"
+    "typescript": "^4.8.4",
+    "@types/react-test-renderer": "^18.0.0"
   },
   "keywords": [
     "react",
@@ -82,7 +83,6 @@
     "unapanta"
   ],
   "dependencies": {
-    "@types/react-test-renderer": "^18.0.0",
     "postcss": "^8.4.18"
   },
   "jest": {
