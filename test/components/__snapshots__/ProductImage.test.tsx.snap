@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Debe mostrar el componente con el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage Debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage Debe mostrar el componente con la,image del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage Debe mostrar el componente con la,imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage debe mostrar el componente correctamente con el titulo personalizado 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="https://image.jpg"
+/>
+`;
+
+exports[`ProductImage debe mostrar el componente correctamente con la imagen personalizada 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="https://image.jpg"
+/>
+`;
+
+exports[`ProductTitle Debe mostrar el componente con el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - Sin Imagen
+  </span>
+</div>
+`;
+
+exports[`ProductTitle debe mostrar el componente correctamente con el titulo personalizado 1`] = `
+<span
+  className="productDescription custom-class"
+>
+  Custom Product
+</span>
+`;
