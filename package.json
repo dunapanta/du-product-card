@@ -10,6 +10,11 @@
   "engines": {
     "node": ">=10"
   },
+  "repository":{
+    "url": "https://github.com/dunapanta/du-product-card",
+    "type": "git"
+  },
+  "homepage": "dunapanta.dev",
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
@@ -59,5 +64,14 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.8.4"
-  }
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "component",
+    "product",
+    "card",
+    "daniel",
+    "unapanta"
+  ]
 }
